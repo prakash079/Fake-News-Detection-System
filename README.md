@@ -23,4 +23,6 @@ Software:-
 Hardware:-
       •	Atleast 4gb of RAM
       •	And a personal computer thats all you need.
+
+You don't need to install all of the libraries of python this hard work is already done by spyder for you.
       
