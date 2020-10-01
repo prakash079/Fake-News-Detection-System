@@ -1,5 +1,5 @@
 # Fake-News-Detection-System
-A machine learning model which is going to predict the news is fake or genuine with the help of Natural Language Processing(NLP).
+A machine learning model which predict's that either a news is fake or genuine with the help of Natural Language Processing(NLP).
 
 Goal:-The main aim of this project is to evaluate which news is fake and which news is real. There are many news which gives false accusation towards a particular person or a community. This model will solve this problem and give a better accuracy. It will give the result in either true or false.
 
